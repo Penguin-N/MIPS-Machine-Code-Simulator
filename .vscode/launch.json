@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/guichi/Desktop/Computer_2_120090194",
+      "program": "/Users/guichi/Desktop/Computer_2_120090194/build/Debug/outDebug"
+    }
+  ]
+}
